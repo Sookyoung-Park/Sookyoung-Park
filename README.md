@@ -34,6 +34,5 @@ Description of the project and its technologies used.
 
 #### Project 2: UI/UX Design
 Description of the design work and concepts behind it.
-<br>
-<br>
+
 
