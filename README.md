@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello, World! 🌏
+### Hello, World! 🌏
 Welcome to my GitHub! I'm Sookyoung Park, a Software Engineer, and a UI/UX Designer.
 
 - 🇰🇷: I hail from Seoul, South Korea.
@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm Sookyoung Park, a Software Engineer, and a UI/UX Desig
 - 🇩🇪: I studied at Furtwangen University in the Black Forest as an exchange student. I am an intermediate German speaker.
 <br>
 <br>
-#### Projects
+## Projects
 
 ##### Project 1: Awesome Website
 Description of the project and its technologies used.
