@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Sookyoung-Park/Sookyoung-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, World! 🌏
+## Hello, World! 🌏
 Welcome to my GitHub! I'm Sookyoung Park, a Software Engineer, and a UI/UX Designer.
 
 - 🇰🇷: I hail from Seoul, South Korea.
