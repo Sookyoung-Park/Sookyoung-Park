@@ -32,7 +32,7 @@ Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourname](https://www
 #### Project 1: Awesome Website
 Description of the project and its technologies used.
 
-### Project 2: UI/UX Design
+#### Project 2: UI/UX Design
 Description of the design work and concepts behind it.
 <br>
 <br>
