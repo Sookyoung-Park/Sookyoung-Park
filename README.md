@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🇩🇪: I studied at Furtwangen University in the Black Forest as an exchange student. I am an intermediate German speaker.**
 -->
 
-### Hello, World! 🌏
+### Hello World! 🌏
 Welcome to my GitHub! I'm Sookyoung Park, a Software Engineer, and a UI/UX Designer.
 
 ## About Me
