@@ -34,3 +34,5 @@ I am a unique combination of a designer and developer with a background in desig
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sookyoung-park-769744256/) to learn more!
 
+## Notes
+As of March 2023, there is no existing project history or contribution history before March 2023 due to a change in the account.
