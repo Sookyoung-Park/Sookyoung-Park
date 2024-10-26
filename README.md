@@ -26,11 +26,11 @@ Description of the design work and concepts behind it.
 -->
 
 ### Hello World! 🌏
-Welcome to my GitHub! I'm Sookyoung Park, a Software Engineer, and a UI/UX Designer.
+Welcome to my GitHub! I'm Sookyoung Park, a UI Engineer, and a UI/UX Designer.
 
 ## About Me
 
-I am a unique combination of a designer and developer with a background in design, art, and computer science. My skills range from UI/UX design to media art, and I have professional experience working in both areas. I am currently furthering my education by pursuing a master's degree in computer science with a focus on Digital Arts at Dartmouth College.
+I am a unique combination of a designer and developer with a background in design, art, and computer science. My skills range from UI/UX design to front-end development (and a bit of backend too), and I have professional experience working in both areas. I hold a master's degree in computer science with a focus on Digital Arts at Dartmouth College.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sookyoung-park-769744256/) to learn more!
 
